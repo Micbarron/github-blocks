@@ -1,0 +1,27 @@
+.top{
+    height: 200px;
+    background-color: peru;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.middle{
+    height: 200px;
+    background-color: maroon;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+    
+}
+
+.bottom{
+    height: 200px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+
+}
+img {
+    height: 200px;
+}
